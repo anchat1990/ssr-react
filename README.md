@@ -2,4 +2,4 @@
 
 `yarn dev`
 
-http://localhost:3006/
+http://localhost:3006/anwesha
